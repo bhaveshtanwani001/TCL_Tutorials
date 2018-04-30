@@ -5,7 +5,7 @@ if {0} {
 ################################################################################################
 #######################################Reserved Words###########################################
 ################The following list shows a few of the reserved words in Tcl.####################
-###These reserved words may not be used as constant or variable or any other identifier names.##
+#These reserved words shouldn't be used as constant or variable or any other identifier names.##
 ################################################################################################
 ################################################################################################
 
